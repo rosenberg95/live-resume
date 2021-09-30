@@ -55,7 +55,7 @@
         "position": 2,
         "startAt": "06-24-2016",
         "companyName": "Danish Standards",
-        "website": "https://www.ds.dk/en",
+        "website": "https://webshop.ds.dk/en-gb/standard/ds-iso-215002013",
         "logo": "../../assets/template/experience/logo/dansk-standard-logo.png",
         "internationalizations": [
             {
@@ -70,7 +70,7 @@
                 "city": "Nordhavn",
                 "country": "Denmark",
                 "role": "Certified Project Manager",
-                "description": "Certified project manager after DS/ISO 21500."
+                "description": "Certified project manager after DS/ISO 21500. "
             }
         ],
         "medias": [
@@ -90,7 +90,7 @@
                 "http": "https://twitter.com/danskstandard"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/rio.jpg"
+        "backgroundUrl": "../../assets/template/experience/nordhavn.jpg"
     },
     {
         "id": 3,
