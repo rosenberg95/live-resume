@@ -28,20 +28,24 @@
     ],
     "hobbies": [        
         {
-            "icon": "biking",
-            "title": "Cycling"
+            "icon": "music",
+            "title": "Music"
         },
         {
-            "icon": "dumbbell",
+            "icon": "box",
             "title": "Gym"
+        },        
+        {
+            "icon": "laptop",
+            "title": "Developing"
         },
         {
-            "icon": "suitcase-rolling",
-            "title": "Travel"
+            "icon": "running",
+            "title": "Sports"
         },
         {
-            "icon": "book",
-            "title": "Read"
+            "icon": "skull",
+            "title": "OCR"
         }
     ]
 }
