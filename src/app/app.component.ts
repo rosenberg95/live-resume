@@ -29,7 +29,7 @@ export class AppComponent implements OnInit {
     ]);
 
     this.metaTagService.updateTag(
-      { name: "description", content: "Hello, I'm a graduate from the Technical University of Denmark. Find out more in my live-resume!" }
+      { name: "description", content: "Hello, I'm a graduate from the Technical University of Denmark. Find out more in my live résumé!" }
     );
   }
 }

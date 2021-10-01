@@ -5,17 +5,17 @@
     "ng": "ng",
     "start": "ng serve",
     "start:en": "ng serve --configuration=en",
-    "start:pt": "ng serve --configuration=pt",
+    "start:da": "ng serve --configuration=da",
     "build": "ng build",
     "build:en": "ng build --configuration=en",
-    "build:pt": "ng build --configuration=pt",
+    "build:da": "ng build --configuration=da",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "int:extract": "ng xi18n --output-path src/locales",
     "build-locale:en": "ng build --aot --prod --i18n-locale=en --i18n-format=xlf --i18n-file=src/locales/messages.en.xlf --output-path=dist/en --base-href /en/",
-    "build-locale:pt": "ng build --aot --prod --i18n-locale=pt --i18n-format=xlf --i18n-file=src/locales/messages.pt.xlf --output-path=dist/pt --base-href /pt/",
-    "build-locale": "npm run build-locale:en && npm run build-locale:pt"
+    "build-locale:pt": "ng build --aot --prod --i18n-locale=da --i18n-format=xlf --i18n-file=src/locales/messages.da.xlf --output-path=dist/da --base-href /da/",
+    "build-locale": "npm run build-locale:en && npm run build-locale:da"
   },
   "private": true,
   "dependencies": {

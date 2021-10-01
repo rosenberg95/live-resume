@@ -50,7 +50,7 @@ export class Typed {
         this.insertSpan(this.text);
 
         let that = this;
-        let delta = this.options.typeSpeed - Math.random() * 100;
+        let delta = this.options.typeSpeed - Math.random() * 200;
 
         if (this.isDeleting) { delta /= 2; }
 
