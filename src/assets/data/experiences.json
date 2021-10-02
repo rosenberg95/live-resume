@@ -13,14 +13,14 @@
                 "city": "Kongens Lyngby",
                 "country": "Danmark",
                 "role": "BScEng i Fysik og Nanoteknologi",
-                "description": "-"
+                "description": "<br><br>Med mit bachelorprojekt <i>Kvanteinformationsteknologi med Kvantepunkter i Nanotråde</i> lavet hos <b>DTU Fotonik</b> instituttet, er der blevet udført gennemarbarjdet træning i matematik, både med hensyn til modellering og anvendelse ved hjælp af værktøjer som programmering, dataanalyse og simulering.<br><br>Valgfrie kurser gennem fysikstudiet har bestået af både introduktion til programmering såvel som avancerede programmeringskurser, og ledelses- og økonomikurser, der låste op for en mulig kandidat i Industriel Økonomi og Teknologiledelse på DTU, som er blevet forfølgt."
             },
             {
                 "language": "en",
                 "city": "Kongens Lyngby",
                 "country": "Denmark",
                 "role": "BScEng in Engineering Physics and Nanotechnology",
-                "description": "With the final thesis being in quantum information technology within the <b>DTU Photonics</b> department, <i>Quantum Information Technology with Quantum Dots in Nanowires</i>, there has been rigorous training in advanced mathematics in terms of modelling as well as application, which utilizes tools such as programming and data processing. Elective courses during this bachelor programme includes advanced programming courses and technical managerial/economy courses, which enabled the Industrial Engineering Management Masters programme at DTU."
+                "description": "<br><br>With my final thesis being in quantum information technology within the <b>DTU Photonics</b> department, <i>Quantum Information Technology with Quantum Dots in Nanowires</i>, there has been rigorous training in advanced mathematics in terms of modelling as well as application, which utilizes tools such as programming, data processing and simulation.<br><br>Elective courses during this bachelor programme includes introductuinary and advanced programming courses and technical managerial/economy courses, which enabled the Industrial Engineering Management Masters programme at DTU, which has pursued been."
             }
         ],
         "technologies": [
@@ -63,14 +63,14 @@
                 "city": "Nordhavn",
                 "country": "Danmark",
                 "role": "Certificeret Projektleder",
-                "description": "-"
+                "description": "<br><br>Certificeret projektleder efter DS/ISO 21500.<br><br>ISO (den Internationale Organisation for Standardisering) er en verdenomspændende føderation for nationale standarder. Herunder er DS (Dansk Standard) en kommunikator af standarder i Danmark. ISO 21500, <i>Projektledelse</i>, blev lavet af ISO's projektkomité ISO/PC 236, og indeholder en overordnet vejledning for projektledelse. Denne internationale standard må/kan bruges af enhver type organisation, offentlig såvel som privat, og til enhver type projekt, uagtet dets kompleksitet, størrelse og varighed. Den giver en beskrivelse af koncepter og processer som er praksis i projektledelse på højt niveau. Derudover sætter den projekter i kontekst af programmes og projektportefølje. "
             },
             {
                 "language": "en",
                 "city": "Nordhavn",
                 "country": "Denmark",
                 "role": "Certified Project Manager",
-                "description": "Certified project manager after DS/ISO 21500. "
+                "description": "<br><br>Certified project manager after DS/ISO 21500.<br><br>ISO (the International Organisation for Standardization) is a worldwide federation of national standards. Here DS (Danish Standard) serves as a communicator of standards and facilitator for standardization in Denmark. ISO 21500 was prepared by Project Committee ISO/PC 236, <i>Project Management</i>, which provides overarching guidance for project management. This International Standard may be used by any type of organization, including public, private or community organizations, and to any type of project, irrespective of complexity, size, or duration. It provides a high-level description of the concepts and processes that are considered to form sound practice in project management and places projects in the context of programmes and project portfolios."
             }
         ],
         "medias": [
@@ -106,14 +106,14 @@
                 "city": "København",
                 "country": "Danmark",
                 "role": "Studenter Programmør",
-                "description": "-"
+                "description": "<br><br>Som studenterprogrammør i et IT konsulenthus, udførte jeg en del firmainterne opgaver som udviklede mig som software ingeniør. Disse interne opgaver inkluderede anvendelse af teknologier som Docker, Jenkins, ELK Stack, hvori Docker også blev anvendt hos Erhvervsstyrelsen, hvor jeg som studentermedhjælper assisterede med at integrere CVR databasen i skyen. Jeg har erfaring med frontend udvikling i Angular og Vue, dog minimalt, da jeg primært stod med backend og devops opgaver. Derudover, løste jeg praktiske problemer internt, hvor jeg f.eks. Lavede et bash shell script, der skulle automatisere en flytningen af alle Nine’s medarbejderes brugere mellem forskellige G-Suite domæner, og der blev sat A/V løsninger op til formål at streame og optage eksempelvis konferencer."
             },
             {
                 "language": "en",
                 "city": "Copenhagen",
                 "country": "Denmark",
                 "role": "Student Programmer",
-                "description": "As a student programmer in a IT consultancy firm, internal tasks was given by the CTO, which included learning technologies such as Docker, ELK Stack, Jenkins, whereas the Docker skill was utilized within the Danish Business Authority (Erhvervsstyrelsen), where the student programmer assisted on making the Danish CVR database into a cloud solution. Additionally, there has been tasks within development where there has primarily been applied programming in Java. Furthermore, internal tasks such as automating a shell script to move the G-Suite domains, and setting up A/V solutions for streaming and recording, e.g. conferences. "
+                "description": "<br><br>As a student programmer in a IT consultancy firm, I carried out company internal tasks, which helped me develop as a software engineer. These various tasks included using  technologies such as Docker, Jenkins, ELK Stack whereas the Docker skill was utilized within the Danish Business Authority (Erhvervsstyrelsen), where I as a student programmer assisted on integrating the Danish CVR database into a cloud solution. There has been done frontend development in Angular and Vue, however to a minimal degree since I worked primarily on backend and devops tasks. Furthermore, I did practical internal tasks such as automating a shell script to move the G-Suite domains, and setting up A/V solutions for streaming and recording, e.g. conferences."
             }
         ],
         "technologies": [
@@ -144,15 +144,15 @@
                 "language": "da",
                 "city": "Bagsværd",
                 "country": "Danmark",
-                "role": "Lyd",
-                "description": "-"
+                "role": "Ejer, Producer og Lydtekniker",
+                "description": "<br><br>RosenRecords er en produktionsvirksomhed grundlagt i 2019, som producere lyd. Herunder er der produkter som inkluderer musik, podcasts og jingles ad hoc. Der blev udgivet et album i 2020, hvor der blev erfaret alt fra produktion til lancering og udgivelse til marketing osv. Derudover stod RosenRecords i 2021 for at optage, mixe, master, og skabe musik til podcasten <i>Rendezvous</i> m/ kok Yves Le Lay</>. Derudover er der internt (i RosenRecords) blevet udviklet Pythin scripts, der beregner og distribuere royalties givet data fra distributøre.<br><br> Denne virksomhed betragtes som et hobbyprojekt, hvor al arbejde på projekter under RosenRecords udføres i fritiden."
             },
             {
                 "language": "en",
                 "city": "Bagsværd",
                 "country": "Denmark",
-                "role": "Sound",
-                "description": "Founded in 2019, RosenRecords is a production company, producing audio solutions. Products includes music as well as podcasts, jingles ad hoc. As of April 2021, there has been released one album on which experience with everything from production to launch and marketing has been developed. There has been produced a jingle to a podcast (My-Pleasure.dk <i>En Mand og Hans Ur</i>). A podcast (<i>Rendezvous</i> w/ chef Yves Le Lay) has been recorded, mixed, mastered, and music done by RosenRecords. Furthermore, there are internally (in RosenRecords) developed Python scrips that calculates and distributes royalties given data from RosenRecords' distributor"
+                "role": " Owner, Producer & Audio Engineer",
+                "description": "<br><br>Founded in 2019, RosenRecords is a production company, producing audio solutions. Products includes music as well as podcasts, jingles ad hoc. There has been released one album in 2020 on which experience with everything from production to launch and marketing has been developed. Furtheremore, a podcast (<i>Rendezvous</i> w/ chef Yves Le Lay) has been recorded, mixed, mastered, and music done by RosenRecords. Internally (in RosenRecords) there has been developed Python scripts that calculates and distributes royalties given data from RosenRecords' distributor.<br><br> This is considered as a hobby project, where any work on projects under RosenRecords is done in my free time. "
             }
         ],
         "technologies": [
@@ -182,18 +182,18 @@
         "logo": "../../assets/template/experience/logo/dtu-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "da",
                 "city": "Kongens Lyngby",
                 "country": "Danmark",
                 "role": "MScEng i Industriel Økonomi og Teknologiledelse",
-                "description": "-"
+                "description": "<br><br>Med specialisering i ledelse og analyse af virksomhedsdrift, er der blevet arbejdet med operationsanalyse for at udvikle og træne kompetencer af forskellige optimeringsteknikker. Derudover, er der blevet udbygget forståelse for og arbejdet med supply chain management, logistik, projektledelse, innovation, bæredygtighed i ledelse, planlægning og skemalægning af maskiner og tjenester, og design af lean produktion og service systemer. Forskellige netværksoptimeringsalgoritmer er lært og anvendt gennem programmering i Julia til at optimere logistiske netværksproblemer. Derudover, har jeg haft valgfag i data mining og machine learning.<br><br>Det afsluttende speciale inkluderer avancerede optimeringsteknikker på et netværksoptimeringsproblem med anvendelse af metaheuristikker, således at der kunne løses inventarlogistik for ECCO A/S i Rusland. Her blev forskellige algoritmer til at estimere og evaluere fremtidig efterspørgsel anvendt givet historiske salgstal i hver given butik. Herefter blev der anvendt en metaheuristik (Tabu Search) til at løse inventarlogistikken."
             },
             {
                 "language": "en",
                 "city": "Kongens Lyngby",
                 "country": "Denmark",
                 "role": "MScEng in Industrial Engineering Management",
-                "description": "Specialized in <i>Management and Operations Analysis</i>, advanced operations management (OM) and operations research (OR) has been developed in order to learn and train different optimization techniques. Furthermore, skills within supply chain management, project management, innovation, sustainability in management, planning and scheduling of machines and services, and design of lean production and service systems has been developed. Network optimization techniques has been learned and applied through programming in Julia. Additionally, there has been taken elective courses in data mining and machine learning. The final thesis includes advanced optimization techniques on a network optimization problem using metaheuristics to solve an inventory routing problem for a large company, where as different demand forecasting techniques has been utilized and evaluated given historical sales data."
+                "description": "<br><br>Specialized in <i>Management and Operations Analysis</i>, advanced operations management and operations research skills has been developed in order to learn and train different optimization techniques. Furthermore, skills within supply chain management, project management, innovation , sustainability in management, planning and scheduling of machines and services, and design of lean production and service systems has been developed. Network optimization techniques has been learned and applied through programming in Julia in order to optimize logistic networks. Additionally, there has been taken elective courses in data mining and machine learning. <br><br>The final thesis includes advanced optimization techniques on a network optimization problem using metaheuristics to solve an inventory routing problem (IRP) for ECCO Sko A/S in Russia, where as different demand forecasting techniques has been utilized and evaluated given historical sales data for each of the given stores, and there has been used a metaheuristic (Tabu Search) to solve the IRP."
             }
         ],
         "technologies": [
