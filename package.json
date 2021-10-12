@@ -6,7 +6,7 @@
     "start": "ng serve",
     "start:en": "ng serve --configuration=en",
     "start:da": "ng serve --configuration=da",
-    "build": "ng build",
+    "build": "npm run build-locale:en && npm run build-locale:da",
     "build:en": "ng build --configuration=en",
     "build:da": "ng build --configuration=da",
     "test": "ng test",

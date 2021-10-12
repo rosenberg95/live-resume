@@ -5,13 +5,14 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyATqzoSgs0RV9T_8XGsOu-YR5hZumZqVVg",
+    apiKey: "AIzaSyDuqQraWDEdGP7kQdy7KrOStz6UipMOa_U-YR5hZumZqVVg",
     authDomain: "pouls-live-resume.firebaseapp.com",
-    projectId: "pouls-live-resume",
-    storageBucket: "pouls-live-resume.appspot.com",
-    messagingSenderId: "212359073992",
-    appId: "1:212359073992:web:c550b238297aeb639055fd",
-    measurementId: "G-7SL8NQNWEZ"
+    databaseURL: "https://pouls-live-re-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "pouls-live-re",
+    storageBucket: "pouls-live-re.appspot.com",
+    messagingSenderId: "968974685369",
+    appId: "1:968974685369:web:d4971d53f1173da1f8f768",
+    measurementId: "G-EQQS1H1L4Y"
   }
 };
 
