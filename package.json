@@ -15,7 +15,8 @@
     "int:extract": "ng xi18n --output-path src/locales",
     "build-locale:en": "ng build --aot --prod --i18n-locale=en --i18n-format=xlf --i18n-file=src/locales/messages.en.xlf --output-path=dist/en --base-href /en/",
     "build-locale:da": "ng build --aot --prod --i18n-locale=da --i18n-format=xlf --i18n-file=src/locales/messages.da.xlf --output-path=dist/da --base-href /da/",
-    "build-locale": "npm run build-locale:en && npm run build-locale:da"
+    "build-locale": "npm run build-locale:en && npm run build-locale:da",
+    "heroku-postbuild": "npm run build-locale"
   },
   "private": true,
   "dependencies": {
