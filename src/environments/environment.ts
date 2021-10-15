@@ -5,8 +5,8 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyDuqQraWDEdGP7kQdy7KrOStz6UipMOa_U-YR5hZumZqVVg",
-    authDomain: "pouls-live-resume.firebaseapp.com",
+    apiKey: "AIzaSyDuqQraWDEdGP7kQdy7KrOStz6UipMOa_U",
+    authDomain: "pouls-live-re.firebaseapp.com",
     databaseURL: "https://pouls-live-re-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "pouls-live-re",
     storageBucket: "pouls-live-re.appspot.com",

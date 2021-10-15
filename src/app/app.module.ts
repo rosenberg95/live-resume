@@ -9,10 +9,12 @@ import { PageNotFoundRoutingModule } from "./404/page-not-found-routing.module";
 import { PageNotFoundModule } from "./404/page-not-found.module";
 import { CoreModule } from "./core/core.module";
 
+// sprog ting
 import localeEn from "@angular/common/locales/en";
 import localeDk from "@angular/common/locales/da";
 import localeDkExtra from "@angular/common/locales/extra/da";
 
+// Firebase ting
 import { AngularFireModule } from "@angular/fire";
 import { AngularFireDatabaseModule } from "@angular/fire/database";
 import { AngularFireAnalyticsModule } from "@angular/fire/analytics";
@@ -29,6 +31,7 @@ export class MyHammerConfig extends HammerGestureConfig {
 
 registerLocaleData(localeEn, "en");
 registerLocaleData(localeDk, "da-GL", localeDkExtra);
+
 @NgModule({
   imports: [
     BrowserModule,

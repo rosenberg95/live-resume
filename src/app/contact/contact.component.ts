@@ -75,9 +75,11 @@ export class ContactComponent implements OnInit {
 
   saveContact(contact: Contact) {
     this.contactService.createContact(contact).then(() => {
+      console.log("Okay, jeg tror måske det virkede! ind og tjek firebase dit fede svin");
       this.displayUserInterfaceMessage(true);
     })
     .catch(error => {
+      console.log("FUCK! No senderino");
       this.displayUserInterfaceMessage(false);
     });
   }
@@ -87,6 +89,7 @@ export class ContactComponent implements OnInit {
     this.hasBeenSubmited = true;
     this.feedbackStatus = hasBeenSuccessfuly? "success" : "error";
     this.contactForm.reset();
+    console.log("Bund og start forfra!")
   }
 
   closeFeedbackMessage() {
@@ -105,5 +108,9 @@ export class ContactComponent implements OnInit {
     } as Contact;
 
     this.saveContact(contactValues);
+
+    // console.log("Okay, vi er kommet i onSubmit, med mesked: ")
+    // console.log(this.senderMessage.value)
+
   }
 }
