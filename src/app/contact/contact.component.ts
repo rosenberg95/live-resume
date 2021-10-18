@@ -104,10 +104,6 @@ export class ContactComponent implements OnInit {
       date: new Date()
     } as Contact;
 
-    this.saveContact(contactValues);
-
-    // console.log("Okay, vi er kommet i onSubmit, med mesked: ")
-    // console.log(this.senderMessage.value)
-
+    this.saveContact(contactValues); 
   }
 }
