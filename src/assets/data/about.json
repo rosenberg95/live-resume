@@ -6,8 +6,12 @@
         },
         {
             "language": "en",
+<<<<<<< HEAD
             "description": "Specialized in <i>operations analysis</i>  and <i>operations management</i>, my core competences is <i>operations research</i>. Over the next few years, I intend to develop as a software engineer, in order to widen my toolbox for my management skills and knowledge. For that, I have learned a bit more about frontend technologies, data engineering, DevOps, software architecture, and even product management as well. I have worked on different business cases with/for different companies during my education, and have developed a lot of different optimization techniques.<br><br>I have made this page in order to easily send my résumé in a modern format, which I wil try to update regularly, but also to dust up some frontend programming. This webapp is a singlepage angular webapplication that uses its database through Firebase, CI testing environment in Jenkins and deployment on Heroku."
 
+=======
+            "description": "Specialized in <i>operations analysis</i>  and <i>operations management</i> , my core competences is <i>operations research</i> . Over the next few years, I intend to develop as a software engineer, in order to widen my toolbox for my management skills and knowledge. For that, I have learned a bit more about frontend technologies, data engineering, DevOps, software architecture, and even product management as well. I have worked on different business cases with/for different companies during my education, and have developed a lot of different optimization techniques.<br><br>I have made this page in order to easily send my résumé in a modern format, which I wil try to update regularly, but also to dust up some frontend programming. This webapp is a singlepage Angular webapplication that has its database on Firebase and deployment on Heroku."
+>>>>>>> refs/remotes/origin/master
         }
     ],
     "medias": [        
