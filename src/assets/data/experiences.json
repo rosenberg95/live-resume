@@ -197,7 +197,7 @@
             }
         ],
         "technologies": [
-            "Operations Research", "Optimization", "Julia", "JuMP", "CPLEX", "Gurobi", "Operations Analysis", "Operations Management", "Supply Chain Management", "Sustainability in Management", "Life Cycle Assesment", "Engineering Economy", "Lean", "Planning and Scheduling in Machines and Services", "Benders Decomposition", "Dantzig-Wolfe Decomposition", "Metaheuristics"
+            "Operations Research", "Optimization", "Data Science", "Julia", "JuMP", "CPLEX", "Gurobi", "Operations Analysis", "Operations Management", "Supply Chain Management", "Sustainability in Management", "Life Cycle Assesment", "Engineering Economy", "Lean", "Planning and Scheduling in Machines and Services", "Algorithms", "Metaheuristics"
         ],
         "medias": [
             {
