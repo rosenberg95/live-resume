@@ -222,5 +222,39 @@
             }
         ],
         "backgroundUrl": "../../assets/template/experience/dtu101.jpg"
+    },
+    {
+        "id": 6,
+        "position": 6,
+        "startAt": "12-01-2021",
+        "companyName": "Staun & Stender",
+        "logo": "../../assets/template/experience/logo/SS.png",
+        "internationalizations": [
+            {
+                "language": "da",
+                "city": "Hellerup",
+                "country": "Danmark",
+                "role": "Management Consultant",
+                "description": "Staun & Stender er en løsnings- og konsulentorienteret virskomhed med senior profiler, der hjælper store virksomheder med at eksikvere deres stategy og virksomhedstransformation. Vi hjælper med løsninger og services der biddrager med digital automatisering ved hjælp af førende teknologi og metodologi. <br><br>Vi rådgiver og tilegner insigt i relationer og beslutninger af forskellige industrier, tillader smartere date-drevent governance og digital performance.<br><br><br><br>"
+            },
+            {
+                "language": "en",
+                "city": "Hellerup",
+                "country": "Denmark",
+                "role": "Management Consultant",
+                "description": "<br><br>Staun & Stender is solutions and consulting company with senior profiles helping large companies with their strategy execution and business transformation. We contribute with solutions and services to provide digital automation using leading technologies and methodology. <br><br> We advise and provide insights to the connections and decisions of your business, enabling smarter data-driven governance and digital performance.<br><br><br><br>"
+            }
+        ],
+        "technologies": [
+            "Management Consulting", "Enterprise Architecture", "Digital Transformation", "Digital Governance", "Business Design", "Roadmap", "Value Stream Mapping", "Data Management", "Master Data", "Optimization", "IT Strategy", "Investment Management", "Information Management", "Digital Platform", "XaaS", "Application Development", "MooD", "OutSystems", "4Me", "NextInsight" 
+        ],    
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn DTU",
+                "http": "https://www.linkedin.com/company/staun&stender/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/hellerup.jpg"
     }
 ]
