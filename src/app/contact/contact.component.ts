@@ -64,7 +64,7 @@ export class ContactComponent implements OnInit {
   ngOnInit(): void {
     this.name = "Poul Rosenberg";
     this.email = "poul@poulrosenberg.dk";
-    this.phone = "+45 2869 3512";
+    // this.phone = "+45 2869 3512";
     this.location = "Bagsværd, Copenhagen, Denmark";
 
     this.faEnvelope = faEnvelope;
