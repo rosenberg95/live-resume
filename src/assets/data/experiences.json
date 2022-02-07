@@ -227,6 +227,7 @@
         "id": 6,
         "position": 6,
         "startAt": "12-01-2021",
+        "endAt": "02-07-2022",
         "companyName": "Staun & Stender",
         "logo": "../../assets/template/experience/logo/SS.png",
         "internationalizations": [
