@@ -156,8 +156,8 @@
         <note priority="1" from="description">posts</note>
       </trans-unit>
       <trans-unit id="synopsis" datatype="html">
-        <source>In countless times, an article or a simple piece of information saved me hours of research, so whenever is possible, I try to do my humble contributions:</source>
-        <target>noget med posts, jeg ikke vil oversætte:</target>
+        <source>Here are some projects/posts, I have been a part of:</source>
+        <target>Her er nogle projekter/posts, som jeg har medvirket i:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts.component.html</context>
           <context context-type="linenumber">19</context>
