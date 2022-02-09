@@ -18,17 +18,34 @@
     },
     {
         "thumbnail": "../../assets/projects/mscthesisthumbnail.PNG",
-        "http": "https://www.linkedin.com/pulse/map-item-navigation-android-opensource-en-guilherme-borges-bastos/",
+        "http": "https://findit.dtu.dk/en/catalog/6120df24d9001d047836904b",
         "date": "07-16-2021",
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Optimization of the Inventory Logistics of ECCO A/S in Russia",
+                "title": "Optimization of the Inventory Routing Problem for ECCO Sko A/S in Russia",
                 "description": "For great user experience, the usage of maps together with the ordered list is used very often in mobile applications. This article presents an open-source application for Android that provides a fully functional component."
             },
             {
                 "language": "da",
                 "title": "Optimering af Inventarlogistikken for ECCO A/S i Rusland",
+                "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/czts.PNG",
+        "http": "https://www.sciencedirect.com/science/article/abs/pii/S0927024817301101",
+        "date": "01-01-2016",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Fabrication of CZTS thin films to be used as a light absorbing semiconductors in solar cells",
+                "description": "For great user experience, the usage of maps together with the ordered list is used very often in mobile applications. This article presents an open-source application for Android that provides a fully functional component."
+            },
+            {
+                "language": "da",
+                "title": "Fabrikering af CZTS Tyndfilm agerende som lysabsorberende halvlederkomponent til solceller",
                 "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
             }
         ]
