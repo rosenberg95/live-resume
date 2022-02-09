@@ -1,5 +1,22 @@
 [
     {
+        "thumbnail": "../../assets/projects/czts.PNG",
+        "http": "https://www.sciencedirect.com/science/article/abs/pii/S0927024817301101",
+        "date": "01-01-2016",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Fabrication of CZTS thin films to be used as a light absorbing semiconductors in solar cells",
+                "description": "The project of making ultra thin p-type semiconductors using the elements: copper, zink, tin, and sulfur (CZTS) in the chemical formulation of <b>Cu<sub>2</sub>ZnSnS<sub>4</sub></b>. The metals was joined together in pulsed laser deposition, while the sulfur was added into the mixture during an annealing process."
+            },
+            {
+                "language": "da",
+                "title": "Fabrikering af CZTS Tyndfilm agerende som lysabsorberende halvlederkomponent til solceller",
+                "description": "Projektet stod i fabrikationen af ultratynde p-type halvledere med elementerne: kobber, zink, tind og svovl (CZTS) ved den kemiske formular, <b>Cu<sub>2</sub>ZnSnS<sub>4</sub></b>. Metallerne blev bundet sammen ved laserdeposition, hvorefter svovl blev introduceret til prøven ved varmebehandling."
+            }
+        ]
+    },
+    {
         "thumbnail": "../../assets/projects/bscthesisthumbnail.PNG",
         "http": "https://findit.dtu.dk/en/catalog/5974822d5010df6dc860f4e9",
         "date": "06-22-2017",
@@ -7,12 +24,12 @@
             {
                 "language": "en",
                 "title": "Quantum Information Technology with Quantum Dots in Nanowires",
-                "description": "<i>Coupled</i> quantum dots enable <b>quantum computations</b>, since they can act as <i>logic gates</i>. They may prove to be the core of operations in the realm of quantum computation. This project’s focus is a pair of asymmetric GaAs <b>quantum dots</b> in a AlGaAs <b>nanowire</b>, with the sole purpose of acting as a quantum gate in a quantum computational system. Schrödinger’s equation is solved with a Hamiltonian for the cylindrical nanowire, perturbed by an external electric field. Additionally, the effect of Coulomb interaction on exciton energies and wave functions will be investigated. These models are numerically calculated, through simulations, using MATLAB and COMSOL. The goal is to couple the dots into resonance, by applying an external electric field, where the project will investigate the optimal magnitude and direction of the electric field, as well as the pattern of anti crossings of the superpositional states of the excitons in the quantum dots, for various quantum donfigurations."
+                "description": "<i>Coupled</i> quantum dots enable <b>quantum computations</b>, since they can act as <i>logic gates</i>. This project’s focus is a pair of asymmetric GaAs <b>quantum dots</b> in a AlGaAs <b>nanowire</b>, with the sole purpose of acting as a quantum gate in a quantum computational system. <b>Schrödinger’s equation</b> is solved with a Hamiltonian for the cylindrical nanowire, perturbed by an external <b>electric field</b>. Additionally, the effect of <b>Coulomb interaction</b> on exciton energies and wave functions will be investigated. These models are numerically calculated, through simulations, using MATLAB and COMSOL. The goal is to couple the dots into resonance, by applying an external electric field, where the project will investigate the optimal magnitude and direction of the electric field, as well as the pattern of anti crossings of the superpositional states of the excitons in the quantum dots, for various quantum donfigurations."
             },
             {
                 "language": "da",
                 "title": "Kvanteinformationsteknologi med Kvantepunkter i Nanotråde",
-                "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+                "description": "<i>Koblede</i> kvanteprikker kan bruges som <i>logiske gates</i>, hvilket er nøglen til <b>kvantecomputering</b>. Dette bachelorprojekt fokuserer på et par assymmetriske GaAs <b>kvanteprikker</b> i en AlGaAs <b>nanotråd</b>, med hensigten af at skulle agere som en kvantegate i et kvantecomputeringssystem. <b>Schrödingers ligning</b> er løst med en Hamiltonsk operator for den cylindriske nanotråd, som er pertuberet med et eksternt elektrisk felt. Derudover, tilføjes Coulomb interaktionen på excitonerne og der vil undersøges energiniveauer og bølgefunktioner. Modellerne bliver numerisk løst ved hjælp af simuleringer ved MATLAB og COMSOL, hvor målet er at koble kvanteprikker ved hjælp af resonans, ved at pådrage prikkerne et eksternt elektrisk felt, hvor der skal findes en optimal størrelse og retning på feltet. Der vil også ses på mynstre af antikrysninger af superpositionelle excitontilstande i kvanteprikkerne for forskellige prik-konfigurationer."
             }
         ]
     },
@@ -29,24 +46,7 @@
             {
                 "language": "da",
                 "title": "Optimering af Inventarlogistikken for ECCO A/S i Rusland",
-                "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
-            }
-        ]
-    },
-    {
-        "thumbnail": "../../assets/projects/czts.PNG",
-        "http": "https://www.sciencedirect.com/science/article/abs/pii/S0927024817301101",
-        "date": "01-01-2016",
-        "internationalizations": [
-            {
-                "language": "en",
-                "title": "Fabrication of CZTS thin films to be used as a light absorbing semiconductors in solar cells",
-                "description": "The project of making ultra thin p-type semiconductors using the elements: copper, zink, tin, and sulfur (CZTS) in the chemical formulation of <b>Cu<sub>2</sub>ZnSnS<sub>4</sub></b>. The metals was fused together in laser deposition, while the sulfur was added into the mix during an annealing process."
-            },
-            {
-                "language": "da",
-                "title": "Fabrikering af CZTS Tyndfilm agerende som lysabsorberende halvlederkomponent til solceller",
-                "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
+                "description": "Ved hjælp af <b>exponential smoothing</b> som <i>forecastingmetode</i> til at estimere fremtidig efterspørgsel samt <b>metaheuristikken</b>, <i>Tabu Search</i>, i Julia, er der fundet løsninger til <i>the inventory routing priblem</i> for netværk(ene) bestående af 200 ECCO butikker i Rusland."
             }
         ]
     }
