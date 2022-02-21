@@ -183,6 +183,6 @@ export class ExperienceTimelineComponent implements OnInit, OnDestroy {
     this.renderer.appendChild(labelElement, monthSpan);
     this.renderer.appendChild(labelElement, yearSpan);
 
-    return labelElement; // year, E.g: May. 2020
+    return labelElement; // year, E.g: May 2020
   }
 }
