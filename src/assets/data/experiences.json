@@ -2,7 +2,7 @@
     {
         "id": 1,
         "position": 1,
-        "startAt": "01-09-2014",
+        "startAt": "09-01-2014",
         "endAt": "12-31-2017",
         "companyName": "Technical University of Denmark",
         "website": "https://www.dtu.dk/english",
@@ -207,7 +207,7 @@
             },
             {
                 "icon": "facebook",
-                "title": "Facebook E-tática",
+                "title": "Facebook",
                 "http": "https://www.facebook.com/dtudk"
             },
             {
@@ -252,10 +252,82 @@
         "medias": [
             {
                 "icon": "linkedin",
-                "title": "LinkedIn DTU",
+                "title": "LinkedIn",
                 "http": "https://www.linkedin.com/company/staun&stender/"
             }
         ],
         "backgroundUrl": "../../assets/template/experience/hellerup.jpg"
+    },
+    {
+        "id": 7,
+        "position": 7,
+        "startAt": "03-01-2022",
+        "endAt": "07-17-2022",
+        "companyName": "Gladsaxe Kommune",
+        "logo": "../../assets/template/experience/logo/GLX-logo.svg",
+        "internationalizations": [
+            {
+                "language": "da",
+                "city": "Gladsaxe",
+                "country": "Danmark",
+                "role": "Projektmedarbejder",
+                "description": "<br><br><br><br>"
+            },
+            {
+                "language": "en",
+                "city": "Gladsaxe",
+                "country": "Denmark",
+                "role": "Project Engineer",
+                "description": "Implementation, monitoring, consulting and planning in \"Digitalisering og Hverdagsteknologi\" (Digitization and Life Science Technology) projects in Gladsaxe municipality. Also carried out data analysis and was a web editor in Dynamicweb swift, where I structurally changed and updated the website during my part time stay at the municipality administration.<br><br><br><br>"
+            }
+        ],
+        "technologies": [
+            "Microsoft Excel", "Power Point", "Python","DynamicWeb", "Survey Exact"
+        ],    
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn GLX",
+                "http": "https://www.linkedin.com/company/gladsaxe-kommune/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/gladsaxe.jpg"
+    },
+    {
+        "id": 8,
+        "position": 8,
+        "startAt": "07-18-2022",
+        "companyName": "Supply Chain Company",
+        "logo": "../../assets/template/experience/logo/scc-logo.png",
+        "internationalizations": [
+            {
+                "language": "da",
+                "city": "København",
+                "country": "Danmark",
+                "role": "Suppy Chain Løsningskonsulent",
+                "description": "<br><br><br><br>"
+            },
+            {
+                "language": "en",
+                "city": "Copenhagen",
+                "country": "Denmark",
+                "role": "Supply Chain Solutions Consultant",
+                "description": "I specialize in enhancing supply chain processes across the European food industry. My expertise lies in seamlessly integrating business consultancy and solutions consultancy, optimizing operations for efficiency and growth.<br><br>Experience Highlights:<br><br>Optimity: Spearheaded projects in France and in the UK, streamlining manufacturing planning and scheduling. Successfully transitioned from spreadsheet-based systems to custom linear programming optimization, overcoming unique challenges within the European food industry.<br><br>RELEX: Applied AI-based forecasting methods to elevate demand planning and replenishment for Dutch retailers and wholesalers. Managed support, amendments, and change requests, crafting tailored solutions for evolving business processes."
+            
+                
+            
+            }
+        ],
+        "technologies": [
+            "RELEX", "Optimity", "SQL", "Supply Chain Management"
+        ],    
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn SCC",
+                "http": "https://www.linkedin.com/company/supplychaincompany"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/amsterdam.webp"
     }
 ]

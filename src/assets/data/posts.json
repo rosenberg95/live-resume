@@ -49,5 +49,56 @@
                 "description": "Ved hjælp af <b>exponential smoothing</b> som <i>forecastingmetode</i> til at estimere fremtidig efterspørgsel samt <b>metaheuristikken</b>, <i>Tabu Search</i>, i Julia, er der fundet løsninger til <i>the inventory routing priblem</i> for netværk(ene) bestående af 200 ECCO butikker i Rusland."
             }
         ]
+    },
+    {
+        "thumbnail": "../../assets/projects/beertime.PNG",
+        "http": "http://beertime.poulrosenberg.dk/",
+        "date": "11-09-2021",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "The Beertime App",
+                "description": "With a recursive <b>JavaScript</b> running a numerical simulation to solve a <i>differential equation</i> defined by Newton’s Law of Cooling, this app can foresee how long you need to cool a beer with a given start temperature for it to reach a certain goal temperature."
+            },
+            {
+                "language": "da",
+                "title": "Beertime appen",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/relex.png",
+        "http": "https://skillsacademy.relexsolutions.com/share/gamification/badges/external/08d54a28-8aab-4eeb-9f1e-9560aa557b03?lang=en",
+        "date": "07-18-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "RELEX",
+                "description": "As a certified RELEX Supply Chain Assosiate, I have applied AI-based forecasting methods to elevate demand planning and replenishment for Dutch retailers and wholesalers. Managed support, amendments, and change requests, crafting tailored solutions for evolving business processes."
+            },
+            {
+                "language": "da",
+                "title": "RELEX",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/optimity.png",
+        "http": "https://skillsacademy.relexsolutions.com/share/gamification/badges/external/08d54a28-8aab-4eeb-9f1e-9560aa557b03?lang=en",
+        "date": "01-05-2023",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Optimity",
+                "description": "Spearheaded projects in France and in the UK, streamlining manufacturing planning and scheduling. Successfully transitioned from spreadsheet-based systems to custom linear programming optimization, overcoming unique challenges within the European food industry."
+            },
+            {
+                "language": "da",
+                "title": "Optimity",
+                "description": ""
+            }
+        ]
     }
 ]
