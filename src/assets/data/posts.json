@@ -12,7 +12,7 @@
             {
                 "language": "da",
                 "title": "Optimity",
-                "description": ""
+                "description": "Stået i spidsen af projekter i Frankrig og Storbritannien, hvor jeg strømlinede produktionsplanlægning og skemasplanlægning. Gennemførte med succes overgangen fra systemer baseret på regneark til brugerdefineret lineær programmeringsoptimering, og overvandt unikke udfordringer inden for fødevareindustrien i Europa."
             }
         ]
     },
@@ -24,12 +24,12 @@
             {
                 "language": "en",
                 "title": "RELEX",
-                "description": "As a certified RELEX Supply Chain Assosiate, I have applied AI-based forecasting methods to elevate demand planning and replenishment for Dutch retailers and wholesalers. Managed support, amendments, and change requests, crafting tailored solutions for evolving business processes."
+                "description": "As a certified <i>RELEX Supply Chain Assosiate</i>, I have applied AI-based forecasting methods to elevate demand planning and replenishment for Dutch retailers and wholesalers. Managed support, amendments, and change requests, crafting tailored solutions for evolving business processes."
             },
             {
                 "language": "da",
                 "title": "RELEX",
-                "description": ""
+                "description": "Som certificeret <i>RELEX Supply Chain Associate</i> har jeg anvendt AI-baserede prognosemetoder til at forbedre efterspørgselsplanlægning og genopfyldning for hollandske detailhandlere og grossister. Jeg har håndteret support, ændringer og anmodninger om ændringer og skabt skræddersyede løsninger til udviklende forretningsprocesser."
             }
         ]
     },
@@ -46,7 +46,7 @@
             {
                 "language": "da",
                 "title": "Beertime appen",
-                "description": ""
+                "description": "Med en rekursiv <b>JavaScript</b>-funktion, der kører en numerisk simulering for at løse en <i>differentialligning</i> defineret af Newtons afkølingslov, kan denne app forudse, hvor lang tid det tager at køle en øl fra en given starttemperatur til en bestemt ønsket temperatur."
             }
         ]
     },
