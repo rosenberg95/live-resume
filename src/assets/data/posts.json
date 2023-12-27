@@ -1,68 +1,17 @@
 [
     {
-        "thumbnail": "../../assets/projects/czts.PNG",
-        "http": "https://www.sciencedirect.com/science/article/abs/pii/S0927024817301101",
-        "date": "01-01-2016",
+        "thumbnail": "../../assets/projects/optimity.png",
+        "http": "https://optimitysoftware.com/",
+        "date": "05-01-2023",
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Fabrication of CZTS thin films to be used as a light absorbing semiconductors in solar cells",
-                "description": "The project of making ultra thin p-type semiconductors using the elements: copper, zink, tin, and sulfur (CZTS) in the chemical formulation of <b>Cu<sub>2</sub>ZnSnS<sub>4</sub></b>. The metals was joined together in pulsed laser deposition, while the sulfur was added into the mixture during an annealing process."
+                "title": "Optimity",
+                "description": "Spearheaded projects in France and in the UK, streamlining manufacturing planning and scheduling. Successfully transitioned from spreadsheet-based systems to custom linear programming optimization, overcoming unique challenges within the European food industry."
             },
             {
                 "language": "da",
-                "title": "Fabrikering af CZTS Tyndfilm agerende som lysabsorberende halvlederkomponent til solceller",
-                "description": "Projektet stod i fabrikationen af ultratynde p-type halvledere med elementerne: kobber, zink, tind og svovl (CZTS) ved den kemiske formular, <b>Cu<sub>2</sub>ZnSnS<sub>4</sub></b>. Metallerne blev bundet sammen ved laserdeposition, hvorefter svovl blev introduceret til prøven ved varmebehandling."
-            }
-        ]
-    },
-    {
-        "thumbnail": "../../assets/projects/bscthesisthumbnail.PNG",
-        "http": "https://findit.dtu.dk/en/catalog/5974822d5010df6dc860f4e9",
-        "date": "06-22-2017",
-        "internationalizations": [
-            {
-                "language": "en",
-                "title": "Quantum Information Technology with Quantum Dots in Nanowires",
-                "description": "<i>Coupled</i> quantum dots enable <b>quantum computations</b>, since they can act as <i>logic gates</i>. This project’s focus is a pair of asymmetric GaAs <b>quantum dots</b> in a AlGaAs <b>nanowire</b>, with the sole purpose of acting as a quantum gate in a quantum computational system. <b>Schrödinger’s equation</b> is solved with a Hamiltonian for the cylindrical nanowire, perturbed by an external <b>electric field</b>. Additionally, the effect of <b>Coulomb interaction</b> on exciton energies and wave functions will be investigated. These models are numerically calculated, through simulations, using MATLAB and COMSOL. The goal is to couple the dots into resonance, by applying an external electric field, where the project will investigate the optimal magnitude and direction of the electric field, as well as the pattern of anti crossings of the superpositional states of the excitons in the quantum dots, for various quantum donfigurations."
-            },
-            {
-                "language": "da",
-                "title": "Kvanteinformationsteknologi med Kvantepunkter i Nanotråde",
-                "description": "<i>Koblede</i> kvanteprikker kan bruges som <i>logiske gates</i>, hvilket er nøglen til <b>kvantecomputering</b>. Dette bachelorprojekt fokuserer på et par assymmetriske GaAs <b>kvanteprikker</b> i en AlGaAs <b>nanotråd</b>, med hensigten af at skulle agere som en kvantegate i et kvantecomputeringssystem. <b>Schrödingers ligning</b> er løst med en Hamiltonsk operator for den cylindriske nanotråd, som er pertuberet med et eksternt elektrisk felt. Derudover, tilføjes Coulomb interaktionen på excitonerne og der vil undersøges energiniveauer og bølgefunktioner. Modellerne bliver numerisk løst ved hjælp af simuleringer ved MATLAB og COMSOL, hvor målet er at koble kvanteprikker ved hjælp af resonans, ved at pådrage prikkerne et eksternt elektrisk felt, hvor der skal findes en optimal størrelse og retning på feltet. Der vil også ses på mynstre af antikrysninger af superpositionelle excitontilstande i kvanteprikkerne for forskellige prik-konfigurationer."
-            }
-        ]
-    },
-    {
-        "thumbnail": "../../assets/projects/mscthesisthumbnail.PNG",
-        "http": "https://findit.dtu.dk/en/catalog/6120df24d9001d047836904b",
-        "date": "07-16-2021",
-        "internationalizations": [
-            {
-                "language": "en",
-                "title": "Optimization of the Inventory Routing Problem for ECCO Sko A/S in Russia",
-                "description": "Using <b>exponential smoothing</b> as <i>forecasting</i> technique to estimate future demands and the <b>metaheuristic</b>, <i>Tabu Search</i>, in <b>Julia</b>, there has been found solutions to <i>the inventory routing problem</i> for the network(s) of 200 ECCO stores in Russia."
-            },
-            {
-                "language": "da",
-                "title": "Optimering af Inventarlogistikken for ECCO A/S i Rusland",
-                "description": "Ved hjælp af <b>exponential smoothing</b> som <i>forecastingmetode</i> til at estimere fremtidig efterspørgsel samt <b>metaheuristikken</b>, <i>Tabu Search</i>, i Julia, er der fundet løsninger til <i>the inventory routing priblem</i> for netværk(ene) bestående af 200 ECCO butikker i Rusland."
-            }
-        ]
-    },
-    {
-        "thumbnail": "../../assets/projects/beertime.PNG",
-        "http": "http://beertime.poulrosenberg.dk/",
-        "date": "11-09-2021",
-        "internationalizations": [
-            {
-                "language": "en",
-                "title": "The Beertime App",
-                "description": "With a recursive <b>JavaScript</b> running a numerical simulation to solve a <i>differential equation</i> defined by Newton’s Law of Cooling, this app can foresee how long you need to cool a beer with a given start temperature for it to reach a certain goal temperature."
-            },
-            {
-                "language": "da",
-                "title": "Beertime appen",
+                "title": "Optimity",
                 "description": ""
             }
         ]
@@ -85,19 +34,70 @@
         ]
     },
     {
-        "thumbnail": "../../assets/projects/optimity.png",
-        "http": "https://skillsacademy.relexsolutions.com/share/gamification/badges/external/08d54a28-8aab-4eeb-9f1e-9560aa557b03?lang=en",
-        "date": "01-05-2023",
+        "thumbnail": "../../assets/projects/beertime.PNG",
+        "http": "http://beertime.poulrosenberg.dk/",
+        "date": "11-09-2021",
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Optimity",
-                "description": "Spearheaded projects in France and in the UK, streamlining manufacturing planning and scheduling. Successfully transitioned from spreadsheet-based systems to custom linear programming optimization, overcoming unique challenges within the European food industry."
+                "title": "The Beertime App",
+                "description": "With a recursive <b>JavaScript</b> running a numerical simulation to solve a <i>differential equation</i> defined by Newton’s Law of Cooling, this app can foresee how long you need to cool a beer with a given start temperature for it to reach a certain goal temperature."
             },
             {
                 "language": "da",
-                "title": "Optimity",
+                "title": "Beertime appen",
                 "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/mscthesisthumbnail.PNG",
+        "http": "https://findit.dtu.dk/en/catalog/6120df24d9001d047836904b",
+        "date": "07-16-2021",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Optimization of the Inventory Routing Problem for ECCO Sko A/S in Russia",
+                "description": "Using <b>exponential smoothing</b> as <i>forecasting</i> technique to estimate future demands and the <b>metaheuristic</b>, <i>Tabu Search</i>, in <b>Julia</b>, there has been found solutions to <i>the inventory routing problem</i> for the network(s) of 200 ECCO stores in Russia."
+            },
+            {
+                "language": "da",
+                "title": "Optimering af Inventarlogistikken for ECCO A/S i Rusland",
+                "description": "Ved hjælp af <b>exponential smoothing</b> som <i>forecastingmetode</i> til at estimere fremtidig efterspørgsel samt <b>metaheuristikken</b>, <i>Tabu Search</i>, i Julia, er der fundet løsninger til <i>the inventory routing priblem</i> for netværk(ene) bestående af 200 ECCO butikker i Rusland."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/bscthesisthumbnail.PNG",
+        "http": "https://findit.dtu.dk/en/catalog/5974822d5010df6dc860f4e9",
+        "date": "06-22-2017",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Quantum Information Technology with Quantum Dots in Nanowires",
+                "description": "<i>Coupled</i> quantum dots enable <b>quantum computations</b>, since they can act as <i>logic gates</i>. This project’s focus is a pair of asymmetric GaAs <b>quantum dots</b> in a AlGaAs <b>nanowire</b>, with the sole purpose of acting as a quantum gate in a quantum computational system. <b>Schrödinger’s equation</b> is solved with a Hamiltonian for the cylindrical nanowire, perturbed by an external <b>electric field</b>. Additionally, the effect of <b>Coulomb interaction</b> on exciton energies and wave functions will be investigated. These models are numerically calculated, through simulations, using MATLAB and COMSOL. The goal is to couple the dots into resonance, by applying an external electric field, where the project will investigate the optimal magnitude and direction of the electric field, as well as the pattern of anti crossings of the superpositional states of the excitons in the quantum dots, for various quantum donfigurations."
+            },
+            {
+                "language": "da",
+                "title": "Kvanteinformationsteknologi med Kvantepunkter i Nanotråde",
+                "description": "<i>Koblede</i> kvanteprikker kan bruges som <i>logiske gates</i>, hvilket er nøglen til <b>kvantecomputering</b>. Dette bachelorprojekt fokuserer på et par assymmetriske GaAs <b>kvanteprikker</b> i en AlGaAs <b>nanotråd</b>, med hensigten af at skulle agere som en kvantegate i et kvantecomputeringssystem. <b>Schrödingers ligning</b> er løst med en Hamiltonsk operator for den cylindriske nanotråd, som er pertuberet med et eksternt elektrisk felt. Derudover, tilføjes Coulomb interaktionen på excitonerne og der vil undersøges energiniveauer og bølgefunktioner. Modellerne bliver numerisk løst ved hjælp af simuleringer ved MATLAB og COMSOL, hvor målet er at koble kvanteprikker ved hjælp af resonans, ved at pådrage prikkerne et eksternt elektrisk felt, hvor der skal findes en optimal størrelse og retning på feltet. Der vil også ses på mynstre af antikrysninger af superpositionelle excitontilstande i kvanteprikkerne for forskellige prik-konfigurationer."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/czts.PNG",
+        "http": "https://www.sciencedirect.com/science/article/abs/pii/S0927024817301101",
+        "date": "01-01-2016",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Fabrication of CZTS thin films to be used as a light absorbing semiconductors in solar cells",
+                "description": "The project of making ultra thin p-type semiconductors using the elements: copper, zink, tin, and sulfur (CZTS) in the chemical formulation of <b>Cu<sub>2</sub>ZnSnS<sub>4</sub></b>. The metals was joined together in pulsed laser deposition, while the sulfur was added into the mixture during an annealing process."
+            },
+            {
+                "language": "da",
+                "title": "Fabrikering af CZTS Tyndfilm agerende som lysabsorberende halvlederkomponent til solceller",
+                "description": "Projektet stod i fabrikationen af ultratynde p-type halvledere med elementerne: kobber, zink, tind og svovl (CZTS) ved den kemiske formular, <b>Cu<sub>2</sub>ZnSnS<sub>4</sub></b>. Metallerne blev bundet sammen ved laserdeposition, hvorefter svovl blev introduceret til prøven ved varmebehandling."
             }
         ]
     }
