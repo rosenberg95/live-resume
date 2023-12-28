@@ -68,6 +68,23 @@
         ]
     },
     {
+        "thumbnail": "../../assets/projects/rosenrecords.png",
+        "http": "http://www.rosenrecords.dk/",
+        "date": "12-01-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "RosenRecords",
+                "description": "This record label is a hobby project. It has released two albums, it has recorded podcasts and produced ad hoc jingles and sound bits for various uses. Press <i>See more</i> to access a complete list of releases with links on where to hear it."
+            },
+            {
+                "language": "da",
+                "title": "RosenRecords",
+                "description": "Dette pladeselskab er et hobbyprojekt. Det har udgivet to albums, optaget podcasts og produceret ad hoc jingles og lydbidder til forskellig brug. Tryk på <i>Se mere</i> for at se en fuld liste af udgivelser med tilhørende links til at høre det."
+            }
+        ]
+    },
+    {
         "thumbnail": "../../assets/projects/bscthesisthumbnail.PNG",
         "http": "https://findit.dtu.dk/en/catalog/5974822d5010df6dc860f4e9",
         "date": "06-22-2017",

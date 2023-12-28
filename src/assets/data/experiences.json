@@ -247,7 +247,7 @@
             }
         ],
         "technologies": [
-            "Management Consulting", "Enterprise Architecture", "Digital Transformation", "Digital Governance", "Business Design", "Roadmap", "Value Stream Mapping", "Data Management", "Master Data", "Optimization", "IT Strategy", "Investment Management", "Information Management", "Digital Platform", "XaaS", "Application Development", "MooD", "OutSystems", "4Me", "NextInsight" 
+            "Management Consulting", "Enterprise Architecture", "Business Design", "Roadmap", "Value Stream Mapping", "Data Management", "IT Strategy", "Information Management", "Application Development", "MooD", "4Me", "Service Management"
         ],    
         "medias": [
             {
@@ -271,7 +271,7 @@
                 "city": "Gladsaxe",
                 "country": "Danmark",
                 "role": "Projektmedarbejder",
-                "description": "<br><br><br><br>"
+                "description": "Implementering, monitorering, rådgivning og planlægning i \"Digitalisering og Hverdagsteknologi\" projekter i Gladsaxe Kommune. Ydermere, udførelse af dataanalyse for og automatisering af opgavere. Derudover var jeg redaktør i Gladsaxe kommune, hvor jeg reigerede siden i Dynamicweb swift, hvor jeg gav siden en strukturel opdatering med tilhørende vedligehold.<br><br><br><br>"
             },
             {
                 "language": "en",
@@ -317,7 +317,7 @@
             }
         ],
         "technologies": [
-            "RELEX", "Optimity", "SQL", "Supply Chain Management"
+            "RELEX", "Optimity", "SQL", "Supply Chain Management", "Optimization"
         ],    
         "medias": [
             {

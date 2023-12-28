@@ -51,6 +51,7 @@
     left: -35px;
     transition: all 0.1s ease-out;
     pointer-events: none; /* Only the Circles in the timeline are listened by events. */
+    // font-size: 14px;
 
     .month {
       margin-right: 5px;
